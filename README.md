@@ -1,5 +1,5 @@
-# Random Chooser
+# Breaking Bad Characters 
 
-A simple random chooser, developed with ReactJs
+Breaking Bad characters info, used The Breaking Bad API, developed with ReactJs
 
-Here is the Live Demo https://random-chooser.herokuapp.com/
+you can see the Live Demo from https://brba-characters.herokuapp.com
