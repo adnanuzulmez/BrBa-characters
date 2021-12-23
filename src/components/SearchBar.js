@@ -11,8 +11,10 @@ function SearchBar() {
   return (
     <>
       <h2>Breaking Bad Characters</h2>
-      <input type="text" name="search" ref={textInput} placeholder="Search" />
-      <button onClick={handleSubmit}>search</button>
+      <div className="input-form">
+        <input type="text" name="search" ref={textInput} placeholder="Search" />
+        <button onClick={handleSubmit}>search</button>
+      </div>
       <BrBaAPI name={name} />
     </>
   );
